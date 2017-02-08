@@ -34,13 +34,16 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/qtS42mw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I have tried to add UIAlertController to showcase the Network
+error message, but I took too log to include that feature to the 
+the app. The overview content of the app is not displaying 
+properly, which I think was a bit challenging.
 
 ## License
 
