@@ -2,7 +2,7 @@
 
 **FlickApp** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **6** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -34,16 +34,16 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'http://i.imgur.com/lmcSmd3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/lmcSmd3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I have tried to add UIAlertController to showcase the Network
-error message, but I took too log to include that feature to the 
-the app. The overview content of the app is not displaying 
-properly, which I think was a bit challenging.
+I have tried to add UIAlertController to showcase the Network error message, 
+but it took too log to include that feature into the app. 
+The overview content of the app is not displaying properly, 
+which I think was a bit challenging.
 
 ## License
 
